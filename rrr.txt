@@ -1,2 +1,7 @@
+
 hiii
 hello
+resolving conflict
+hello
+hi
+
